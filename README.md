@@ -6,7 +6,7 @@ I'm an undergrad at IIT Roorkee deeply passionate about full-stack web developme
 
 * 🔭 **I’m currently working on** CurrentDEX (a decentralized exchange platform) and laying the groundwork for RouteLLM.
 * 👯 **I’m looking to collaborate on** Web3 hackathon projects, scalable decentralized applications, and early-stage AI integrations.
-* 🤝 **I’m looking for help with** mastering ElysiaJS, advanced system architecture, and best practices in AI development.
+* 🤝 **I’m looking for help with** mastering GoLang & ElysiaJS, advanced system architecture, and best practices in AI development.
 * 🌱 **I’m currently learning** applied AI for software development, alongside WebSockets and Redis optimization.
 * 💬 **Ask me about** React, Node.js, TypeScript, Web3 architecture, or my transition into AI development!
 
